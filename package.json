@@ -11,6 +11,6 @@
   "author": "Burner <burner@burner.gay>",
   "license": "SEE LICENSE IN LICENSE.txt",
   "devDependencies": {
-    "vuepress": "^2.0.0-beta.49"
+    "vuepress": "^2.0.0-beta.51"
   }
 }
